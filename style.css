@@ -49,7 +49,7 @@ body{
     width: 16px;
 }
 .weather{
-    display: none;
+    display:none;
 }
 .weather-icon{
     width:170px;
